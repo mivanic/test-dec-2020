@@ -1,4 +1,4 @@
 # Script
 
-x = 3 * 7
+x = 3 * 9
 print(x)
